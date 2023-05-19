@@ -1,0 +1,20 @@
+.each-tab {
+  list-style-type: none;
+}
+.tab-button {
+  border: 1px solid transparent;
+  background-color: transparent;
+  font-size: 15px;
+  color: #7b8794;
+  cursor: pointer;
+}
+.active-tab-button {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  background-color: transparent;
+  font-size: 15px;
+  font-weight: bold;
+  border-top: 1px solid transparent;
+  border-left: 1px solid transparent;
+  border-right: 1px solid transparent;
+}
